@@ -16,7 +16,7 @@ Bu aşamada spectrogramları okuyarak  grayscale dönüşümü, resizing ve norm
 Bu aşamada modeli eğittikten sonra performans ölçümlerini, accuracy ve loss grafiklerini ekrana yazdırdık ve hiperparametre optimizasyonu gerçekleştirdik.
 
 ## SONUÇ
-Deep learning alanına giriş seviyesinde gerçekleştirdiğimiz bu projede temel hedefimiz yüksek performanslı bir model oluşturmaktan ziyade alanla ilgili temel bilgileri öğrenmekti. Bu doğrultuda overfitting (aşırı öğrenme) sebebiyle modelimizin performansını arttırmak için epoch sayısını, katman sayısını, dropout miktarını değiştirmeyi denedik. Nihayetinde modelden %87 oranında performans almayı başardık. 
+Deep learning alanına giriş seviyesinde gerçekleştirdiğimiz bu projede temel hedefimiz yüksek performanslı bir model oluşturmaktan ziyade alanla ilgili temel bilgileri öğrenmekti. Bu doğrultuda overfitting (aşırı öğrenme) sebebiyle düşük performanslı halde olan modelimizin performansını arttırmak için epoch sayısını, katman sayısını, dropout miktarını değiştirmeyi denedik. Nihayetinde modelden %87 oranında performans almayı başardık. 
 
 Sonuç olarak alana dair bilgi ve becerilerimizi arttırmaya yardımcı olan verimli bir eğitim ve proje sürecini tamamladık. Bize böyle bir eğitimi ve imkânı sağlayan Global AI HUB ekibine teşekkür ederiz.
 
